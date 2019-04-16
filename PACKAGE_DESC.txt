@@ -1,0 +1,4 @@
+name = Sample1
+image = null
+readme = README.txt
+readmeForceAgreement = true
