@@ -2,3 +2,5 @@ name = Sample1
 image = null
 readme = README.txt
 readmeForceAgreement = true
+logUploadURL=http://localhost:3000/data/upload
+logIdentifier=sysver1.0
