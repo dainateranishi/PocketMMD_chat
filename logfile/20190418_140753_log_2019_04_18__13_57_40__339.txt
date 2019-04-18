@@ -1,0 +1,108 @@
+[2019/04/18 13:57:40.324] [35872] VIManager: Captured: PROMPT_EVENT_SELECTED|0
+[2019/04/18 13:57:40.324] [35872] VIManager: Status: [main:8] "110 200 PROMPT_EVENT_SELECTED|0 LOG_START| "
+[2019/04/18 13:57:40.324] [35872] VIManager: Sent: LOG_START
+[2019/04/18 13:57:40.324] [35872] MMDAgent: Status: fetched https://mmdagent.lee-lab.org/dl/sys/v1/.mmdagent-content-files
+[2019/04/18 13:57:40.339] [35872] MMDAgent: Captured: LOG_START|
+[2019/04/18 13:57:40.339] [35872] MMDAgent: Status: start logging in C:\Users\daina teranishi\Desktop\MMDAgent-Contents\3178410844/log/demo1...
+[2019/04/18 13:57:40.339] [35872] MMDAgent: Sent: RECOG_RECORD_START|C:\Users\daina teranishi\Desktop\MMDAgent-Contents\3178410844/log/demo1
+[2019/04/18 13:57:40.339] [35872] Julius: Captured: RECOG_RECORD_START|C:\Users\daina teranishi\Desktop\MMDAgent-Contents\3178410844/log/demo1
+[2019/04/18 13:57:40.339] [35872] Julius: Status: recording triggered audio inputs to C:\Users\daina teranishi\Desktop\MMDAgent-Contents\3178410844/log/demo1 ...
+[2019/04/18 13:57:40.408] [35877] MMDAgent: Status: fetched https://mmdagent.lee-lab.org/dl/content/home/.mmdagent-content-files
+[2019/04/18 13:57:40.439] [35878] MMDAgent: Status: fetched http://localhost:8080//.mmdagent-content-files
+[2019/04/18 13:57:40.555] [35886] MMDAgent: Status: fetched http://mmdagent.lee-lab.org/dl/content/demo/logtest/.mmdagent-content-files
+[2019/04/18 13:57:40.656] [35892] MMDAgent: Status: fetched http://mmdagent.lee-lab.org/dl/content/demo/nagoyamorning/.mmdagent-content-files
+[2019/04/18 13:57:40.671] [35893] MMDAgent: Status: finished checking content updates, rehash menu now
+
+[2019/04/18 13:57:54.229] [98522] MMDAgent: Sent: RECOG_MODIFY|GAIN|2.80
+[2019/04/18 13:57:54.229] [98522] Julius: Captured: RECOG_MODIFY|GAIN|2.80
+[2019/04/18 13:57:54.245] [98523] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.245] [98523] MMDAgent: Sent: RECOG_MODIFY|GAIN|3.40
+[2019/04/18 13:57:54.245] [98523] MMDAgent: Sent: RECOG_MODIFY|GAIN|2.80
+[2019/04/18 13:57:54.245] [98523] MMDAgent: Sent: RECOG_MODIFY|GAIN|3.40
+[2019/04/18 13:57:54.245] [98523] Julius: Captured: RECOG_MODIFY|GAIN|3.40
+[2019/04/18 13:57:54.245] [98523] Julius: Captured: RECOG_MODIFY|GAIN|2.80
+[2019/04/18 13:57:54.245] [98523] Julius: Captured: RECOG_MODIFY|GAIN|3.40
+[2019/04/18 13:57:54.276] [98525] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.276] [98525] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.276] [98525] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.276] [98525] MMDAgent: Sent: RECOG_MODIFY|GAIN|4.00
+[2019/04/18 13:57:54.276] [98525] Julius: Captured: RECOG_MODIFY|GAIN|4.00
+[2019/04/18 13:57:54.314] [98527] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.314] [98527] MMDAgent: Sent: RECOG_MODIFY|GAIN|4.60
+[2019/04/18 13:57:54.314] [98527] Julius: Captured: RECOG_MODIFY|GAIN|4.60
+[2019/04/18 13:57:54.345] [98529] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.360] [98530] MMDAgent: Sent: RECOG_MODIFY|GAIN|5.20
+[2019/04/18 13:57:54.360] [98530] Julius: Captured: RECOG_MODIFY|GAIN|5.20
+[2019/04/18 13:57:54.376] [98531] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.414] [98533] MMDAgent: Sent: RECOG_MODIFY|GAIN|5.80
+[2019/04/18 13:57:54.414] [98533] Julius: Captured: RECOG_MODIFY|GAIN|5.80
+[2019/04/18 13:57:54.445] [98535] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.498] [98538] MMDAgent: Sent: RECOG_MODIFY|GAIN|6.40
+[2019/04/18 13:57:54.498] [98538] Julius: Captured: RECOG_MODIFY|GAIN|6.40
+[2019/04/18 13:57:54.514] [98539] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.545] [98541] MMDAgent: Sent: RECOG_MODIFY|GAIN|7.00
+[2019/04/18 13:57:54.545] [98541] Julius: Captured: RECOG_MODIFY|GAIN|7.00
+[2019/04/18 13:57:54.577] [98543] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.599] [98544] MMDAgent: Sent: RECOG_MODIFY|GAIN|7.60
+[2019/04/18 13:57:54.599] [98544] Julius: Captured: RECOG_MODIFY|GAIN|7.60
+[2019/04/18 13:57:54.614] [98545] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.630] [98546] MMDAgent: Sent: RECOG_MODIFY|GAIN|8.20
+[2019/04/18 13:57:54.630] [98546] Julius: Captured: RECOG_MODIFY|GAIN|8.20
+[2019/04/18 13:57:54.646] [98547] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.661] [98548] MMDAgent: Sent: RECOG_MODIFY|GAIN|8.80
+[2019/04/18 13:57:54.661] [98548] Julius: Captured: RECOG_MODIFY|GAIN|8.80
+[2019/04/18 13:57:54.677] [98549] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.730] [98552] MMDAgent: Sent: RECOG_MODIFY|GAIN|9.40
+[2019/04/18 13:57:54.730] [98552] MMDAgent: Sent: RECOG_MODIFY|GAIN|8.80
+[2019/04/18 13:57:54.730] [98552] MMDAgent: Sent: RECOG_MODIFY|GAIN|9.40
+[2019/04/18 13:57:54.730] [98552] Julius: Captured: RECOG_MODIFY|GAIN|9.40
+[2019/04/18 13:57:54.730] [98552] Julius: Captured: RECOG_MODIFY|GAIN|8.80
+[2019/04/18 13:57:54.730] [98552] Julius: Captured: RECOG_MODIFY|GAIN|9.40
+[2019/04/18 13:57:54.746] [98553] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.746] [98553] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.746] [98553] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:54.915] [98563] MMDAgent: Sent: RECOG_MODIFY|GAIN|10.00
+[2019/04/18 13:57:54.915] [98563] Julius: Captured: RECOG_MODIFY|GAIN|10.00
+[2019/04/18 13:57:54.946] [98565] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:57.152] [98697] Julius: Sent: RECOG_EVENT_START
+[2019/04/18 13:57:57.822] [98737] Julius: Status: input recorded: C:\Users\daina teranishi\Desktop\MMDAgent-Contents\3178410844/log/demo1/2019_04_18__13_57_57__152.wav (0.83 sec.)
+[2019/04/18 13:57:57.822] [98738] Julius: Status: input length: 810 msec
+[2019/04/18 13:57:57.838] [98738] Julius: Status: [#1 dictate] -2158.066895  こんにちは 。
+[2019/04/18 13:57:57.838] [98738] Julius: Status: [#2 word] -2318.109131 
+[2019/04/18 13:57:57.838] [98738] Julius: Sent: RECOG_EVENT_STOP|こんにちは,。
+[2019/04/18 13:57:57.838] [98738] Julius: Captured: RECOG_EVENT_STOP
+[2019/04/18 13:57:57.838] [98738] Julius: Captured: RECOG_EVENT_STOP|こんにちは,。
+[2019/04/18 13:57:57.838] [98739] VIManager: Status: main: $1=こんにちは
+[2019/04/18 13:57:57.838] [98739] VIManager: Status: main: $2=。
+[2019/04/18 13:57:57.838] [98739] VIManager: Captured: RECOG_EVENT_STOP|こんにちは,。
+[2019/04/18 13:57:57.838] [98739] VIManager: Status: [main:11] "200 205 @RECOG_EVENT_STOP\|([^,]*),([^,]*)$@ <eps>| ${result}=${1}${2}"
+[2019/04/18 13:57:57.838] [98739] VIManager: Status: main: $result=こんにちは。
+[2019/04/18 13:57:57.838] [98739] VIManager: Captured: <eps>
+[2019/04/18 13:57:57.838] [98739] VIManager: Status: [main:16] "205 210 <eps> RECOG_MODIFY|GAIN|0.0 "
+[2019/04/18 13:57:57.838] [98739] VIManager: Sent: RECOG_MODIFY|GAIN|0.0
+[2019/04/18 13:57:57.838] [98739] VIManager: Captured: <eps>
+[2019/04/18 13:57:57.838] [98739] VIManager: Status: [main:17] "210 215 <eps> SYNTH_START|mei|mei_voice_normal|${result}ですね！ "
+[2019/04/18 13:57:57.838] [98739] VIManager: Sent: SYNTH_START|mei|mei_voice_normal|こんにちは。ですね！
+[2019/04/18 13:57:57.854] [98739] Julius: Captured: RECOG_MODIFY|GAIN|0.0
+[2019/04/18 13:57:57.854] [98739] Julius: Captured: SYNTH_START|mei|mei_voice_normal|こんにちは。ですね！
+[2019/04/18 13:57:57.854] [98739] Open_JTalk: Captured: SYNTH_START|mei|mei_voice_normal|こんにちは。ですね！
+[2019/04/18 13:57:57.854] [98740] Open_JTalk: Sent: SYNTH_EVENT_START|mei
+[2019/04/18 13:57:57.869] [98740] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:57.869] [98740] Open_JTalk: Sent: LIPSYNC_START|mei|k,95,o,105,N,40,n,45,i,75,ch,95,i,80,w,30,a,165,pau,430,d,45,e,70,s,75,U,40,n,50,e,170
+[2019/04/18 13:57:57.869] [98740] MMDAgent: Captured: LIPSYNC_START|mei|k,95,o,105,N,40,n,45,i,75,ch,95,i,80,w,30,a,165,pau,430,d,45,e,70,s,75,U,40,n,50,e,170
+[2019/04/18 13:57:57.869] [98740] MMDAgent: Sent: LIPSYNC_EVENT_START|mei
+[2019/04/18 13:57:57.923] [98744] Open_JTalk: Sent: SYNTH_EVENT_STOP|mei
+[2019/04/18 13:57:57.938] [98744] Julius: Captured: SYNTH_EVENT_STOP|mei
+[2019/04/18 13:57:57.938] [98745] VIManager: Captured: SYNTH_EVENT_STOP|mei
+[2019/04/18 13:57:57.938] [98745] VIManager: Status: [main:18] "215 220 SYNTH_EVENT_STOP|mei RECOG_MODIFY|GAIN|1.0 "
+[2019/04/18 13:57:57.938] [98745] VIManager: Sent: RECOG_MODIFY|GAIN|1.0
+[2019/04/18 13:57:57.954] [98745] Julius: Captured: RECOG_MODIFY|GAIN|1.0
+[2019/04/18 13:57:57.985] [98747] Julius: Sent: RECOG_EVENT_MODIFY|GAIN
+[2019/04/18 13:57:59.458] [98836] MMDAgent: Sent: LIPSYNC_EVENT_STOP|mei
+[2019/04/18 13:58:20.472] [167580] MMDAgent: Sent: KEY|d
+[2019/04/18 13:58:21.453] [167638] MMDAgent: Sent: KEY|d
+[2019/04/18 13:58:21.854] [167662] MMDAgent: Sent: KEY|d
+[2019/04/18 13:58:54.818] [172508] MMDAgent: Sent: KEY|g
+[2019/04/18 13:59:28.269] [189144] Julius: Status: input length: 0 msec
+[2019/04/18 13:59:28.300] [189144] Open_JTalk: Sent: LIPSYNC_STOP|mei
+[2019/04/18 13:59:28.300] [189144] Open_JTalk: Sent: LIPSYNC_STOP|mei

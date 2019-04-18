@@ -1,0 +1,15 @@
+[2019/04/17 18:46:51.809] [14901] VIManager: Captured: PROMPT_EVENT_SELECTED|0
+[2019/04/17 18:46:51.809] [14901] VIManager: Status: [main:8] "110 200 PROMPT_EVENT_SELECTED|0 LOG_START| "
+[2019/04/17 18:46:51.809] [14901] VIManager: Sent: LOG_START
+[2019/04/17 18:46:51.825] [14901] MMDAgent: Status: fetched https://mmdagent.lee-lab.org/dl/content/home/.mmdagent-content-files
+[2019/04/17 18:46:51.831] [14901] MMDAgent: Captured: LOG_START|
+[2019/04/17 18:46:51.831] [14901] MMDAgent: Status: start logging in C:/Users/daina teranishi/Desktop/MMDAgent-Contents/3178410844/log/demo1...
+[2019/04/17 18:46:51.831] [14901] MMDAgent: Sent: RECOG_RECORD_START|C:/Users/daina teranishi/Desktop/MMDAgent-Contents/3178410844/log/demo1
+[2019/04/17 18:46:51.831] [14901] Julius: Captured: RECOG_RECORD_START|C:/Users/daina teranishi/Desktop/MMDAgent-Contents/3178410844/log/demo1
+[2019/04/17 18:46:51.831] [14901] Julius: Status: recording triggered audio inputs to C:/Users/daina teranishi/Desktop/MMDAgent-Contents/3178410844/log/demo1 ...
+[2019/04/17 18:46:52.850] [14962] MMDAgent: Warning: unable to download or failed to save http://localhost:8080//.mmdagent-content-files
+[2019/04/17 18:46:52.950] [14969] MMDAgent: Status: fetched http://mmdagent.lee-lab.org/dl/content/demo/logtest/.mmdagent-content-files
+[2019/04/17 18:46:53.135] [14980] MMDAgent: Status: fetched http://mmdagent.lee-lab.org/dl/content/demo/nagoyamorning/.mmdagent-content-files
+[2019/04/17 18:46:53.166] [14982] MMDAgent: Status: finished checking content updates, rehash menu now
+
+[2019/04/17 18:47:10.805] [87022] Julius: Status: input length: 0 msec

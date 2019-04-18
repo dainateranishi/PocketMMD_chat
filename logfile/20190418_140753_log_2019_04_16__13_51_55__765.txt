@@ -1,0 +1,9 @@
+[2019/04/16 13:51:55.750] [19656] VIManager: Captured: PROMPT_EVENT_SELECTED|0
+[2019/04/16 13:51:55.750] [19656] VIManager: Status: [main:8] "110 200 PROMPT_EVENT_SELECTED|0 LOG_START| "
+[2019/04/16 13:51:55.750] [19656] VIManager: Sent: LOG_START
+[2019/04/16 13:51:55.765] [19656] MMDAgent: Captured: LOG_START|
+[2019/04/16 13:51:55.765] [19656] MMDAgent: Status: start logging in C:/Users/daina teranishi/Desktop/MMDAgent-Contents/3178410844/log/demo1...
+[2019/04/16 13:51:55.765] [19656] MMDAgent: Sent: RECOG_RECORD_START|C:/Users/daina teranishi/Desktop/MMDAgent-Contents/3178410844/log/demo1
+[2019/04/16 13:51:55.765] [19656] Julius: Captured: RECOG_RECORD_START|C:/Users/daina teranishi/Desktop/MMDAgent-Contents/3178410844/log/demo1
+[2019/04/16 13:51:55.765] [19656] Julius: Status: recording triggered audio inputs to C:/Users/daina teranishi/Desktop/MMDAgent-Contents/3178410844/log/demo1 ...
+[2019/04/16 14:06:06.120] [128720] ErrorBlock: Sent: MODEL_DELETE|_ERRORBLOCK0
